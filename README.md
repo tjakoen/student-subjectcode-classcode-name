@@ -11,8 +11,12 @@ repository"):
 1. **Owner: select the _course organization_, NOT your personal account.** If
    it's under your personal account, the class can't reach it and nothing will
    work. (Accept your org invite first so the org shows up in the Owner list.)
-2. **Name it exactly:** `student-<subjectcode>-<classcode>-<your-github-username>`
-   - all lowercase, no spaces, no `< >`. Example: `student-6apsi-2255-juandelacruz`.
+2. **Name it EXACTLY as your instructor gave you**, in the form
+   `student-<subjectcode>-<classcode>-<your-github-username>` - all lowercase, no
+   spaces, no `< >`. ⚠️ The **subjectcode** and **classcode** are specific to
+   **your** class: use the exact values from your instructor and replace only
+   `<your-github-username>`. Do **not** copy the format example literally.
+   *(Format example only - not your class: `student-6apsi-2255-juandelacruz`.)*
 3. **Visibility: Private.**
 
 Then clone it (`git clone …/<org>/student-…`) or press `.` in the repo to edit
