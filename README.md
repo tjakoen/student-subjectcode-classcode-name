@@ -47,3 +47,15 @@ get refreshed:
    **classCode** (it's in your repo name, e.g. `…-2255-…`).
 2. Read `content/` as new material appears.
 3. Start a `journal/` entry - see the template there.
+
+## 💻 Working in a Codespace
+
+You can open this workspace (and every activity repo) as a cloud dev environment
+- no local install. Click the green **Code** button → **Codespaces** →
+**Create codespace on main**, and work in the browser or in **VS Code Desktop**.
+
+To protect your free monthly hours: set a **10-minute idle timeout**
+(github.com/settings/codespaces), **stop** a Codespace when you finish (don't
+just close the tab - open the Command Palette with `Ctrl`/`Cmd`+`Shift`+`P` and
+run *Codespaces: Stop Current Codespace*), and **delete** Codespaces you no
+longer need (github.com/codespaces → •••).
