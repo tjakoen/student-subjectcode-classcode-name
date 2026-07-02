@@ -16,7 +16,7 @@ repository"):
    spaces, no `< >`. ⚠️ The **subjectcode** and **classcode** are specific to
    **your** class: use the exact values from your instructor and replace only
    `<your-github-username>`. Do **not** copy the format example literally.
-   *(Format example only - not your class: `student-6apsi-2255-juandelacruz`.)*
+   *(Format example only - not your class: `student-6xxx-0000-juandelacruz`.)*
 3. **Visibility: Private.**
 
 Then clone it (`git clone …/<org>/student-…`) or press `.` in the repo to edit
@@ -44,7 +44,7 @@ get refreshed:
 ## First steps
 
 1. Fill in every field in [`student.json`](student.json) - including your
-   **classCode** (it's in your repo name, e.g. `…-2255-…`).
+   **classCode** (it's in your repo name, e.g. `…-0000-…`).
 2. Read `content/` as new material appears.
 3. Start a `journal/` entry - see the template there.
 
