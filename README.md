@@ -64,4 +64,4 @@ run *Codespaces: Stop Current Codespace*), and **delete** Codespaces you no
 longer need (github.com/codespaces → •••).
 
 ---
-🤖 **Built with Claude — I don't prompt and pray, I prompt and prove.** Every commit here is co-authored with an AI, on purpose. [How I actually work with AI, receipts and all →](https://tjakoen.github.io/notes/professional-vibe-coder)
+🤖 **Built by [tjakoen](https://github.com/tjakoen) with Claude — I don't prompt and pray, I prompt and prove.** Every commit here is co-authored with an AI, on purpose. [How I actually work with AI, receipts and all →](https://tjakoen.github.io/notes/professional-vibe-coder)
