@@ -1,4 +1,7 @@
-# Your course workspace
+# 🎒 Your course workspace
+
+[![Made with Claude](https://img.shields.io/badge/Made_with-Claude-D97757?logo=anthropic&logoColor=white)](https://tjakoen.github.io/notes/professional-vibe-coder)
+![Architecture: GitHub-native](https://img.shields.io/badge/architecture-GitHub--native-2ea44f)
 
 This repo is **yours** for the whole course - it's where you read materials, take
 quizzes, see your grades, and keep your own notes, journal, and project plan.
@@ -61,7 +64,4 @@ run *Codespaces: Stop Current Codespace*), and **delete** Codespaces you no
 longer need (github.com/codespaces → •••).
 
 ---
-
-[![Made with Claude](https://img.shields.io/badge/Made_with-Claude-D97757)](https://claude.com/claude-code)
-
-Built with the help of Claude (Anthropic), shared in the interest of transparency.
+🤖 **Built with Claude — I don't prompt and pray, I prompt and prove.** Every commit here is co-authored with an AI, on purpose. [How I actually work with AI, receipts and all →](https://tjakoen.github.io/notes/professional-vibe-coder)
