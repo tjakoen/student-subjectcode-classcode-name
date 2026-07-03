@@ -1,6 +1,7 @@
 # 🎒 Your course workspace
 
 [![Made with Claude](https://img.shields.io/badge/Made_with-Claude-D97757?logo=anthropic&logoColor=white)](https://tjakoen.github.io/notes/ten-times-zero)
+[![License: Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-2ea44f)](LICENSE)
 ![Architecture: GitHub-native](https://img.shields.io/badge/architecture-GitHub--native-2ea44f)
 
 This repo is **yours** for the whole course - it's where you read materials, take
@@ -64,4 +65,4 @@ run *Codespaces: Stop Current Codespace*), and **delete** Codespaces you no
 longer need (github.com/codespaces → •••).
 
 ---
-📚 **These materials were authored by [tjakoen](https://github.com/tjakoen), built with Claude.** I use AI in the open, and I expect you to use it to learn the material, not to skip the learning. [How I actually work with AI →](https://tjakoen.github.io/notes/ten-times-zero)
+🎓 **This workspace runs on the [GitHub-Native Course Platform](https://github.com/tjakoen/github-native-course-platform), created by [tjakoen](https://github.com/tjakoen).** Course materials here are authored by your instructor; your own work stays yours.

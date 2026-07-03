@@ -1,8 +1,11 @@
-NOTICE
+GitHub-Native Course Platform
+Copyright 2026 Tjakoen Stolk
 
-The course materials published into this repository (content, activity
-scaffolds, and configuration) were authored by Tjakoen Stolk and are
-(c) 2026 Tjakoen Stolk.
+Created by Tjakoen Stolk (https://github.com/tjakoen).
 
-Your own notes, journal entries, and code remain your work and stay yours.
-This notice covers only the provided course materials, not your submissions.
+This product includes software developed by Tjakoen Stolk. If you use, deploy,
+or adapt this platform, you must retain this NOTICE and the attribution to the
+original author, as required by the Apache License, Version 2.0 (section 4).
+
+Course materials created by an instructor deploying this platform are authored
+by that instructor. Each student's own work remains theirs.
