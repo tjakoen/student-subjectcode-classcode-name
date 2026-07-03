@@ -12,14 +12,14 @@ repository"):
    it's under your personal account, the class can't reach it and nothing will
    work. (Accept your org invite first so the org shows up in the Owner list.)
 2. **Name it EXACTLY as your instructor gave you**, in the form
-   `student-<subjectcode>-<classcode>-<your-github-username>` - all lowercase, no
-   spaces, no `< >`. ⚠️ The **subjectcode** and **classcode** are specific to
+   student-<subjectcode>-<classcode>-<your-github-username> - all lowercase, no
+   spaces, no < >. ⚠️ The **subjectcode** and **classcode** are specific to
    **your** class: use the exact values from your instructor and replace only
-   `<your-github-username>`. Do **not** copy the format example literally.
-   *(Format example only - not your class: `student-6xxx-0000-juandelacruz`.)*
+   <your-github-username>. Do **not** copy the format example literally.
+   *(Format example only - not your class: student-6xxx-0000-juandelacruz.)*
 3. **Visibility: Private.**
 
-Then clone it (`git clone …/<org>/student-…`) or press `.` in the repo to edit
+Then clone it (git clone …/<org>/student-…) or press . in the repo to edit
 in the browser.
 
 ## Two zones
@@ -29,24 +29,24 @@ get refreshed:
 
 | Folder | What it is |
 | --- | --- |
-| `content/` | course material - read it right here in GitHub |
-| `quizzes/` | quizzes appear here when released |
-| `grades/` | your grade receipts (read-only record) |
+| content/ | course material - read it right here in GitHub |
+| quizzes/ | quizzes appear here when released |
+| grades/ | your grade receipts (read-only record) |
 
 **Your zone** - yours to fill, never touched by the instructor's automation:
 
 | Folder | What it's for |
 | --- | --- |
-| `notes/` | your notes per topic |
-| `journal/` | reflections / learning log |
-| `project/` | planning for your final project |
+| notes/ | your notes per topic |
+| journal/ | reflections / learning log |
+| project/ | planning for your final project |
 
 ## First steps
 
-1. Fill in every field in [`student.json`](student.json) - including your
-   **classCode** (it's in your repo name, e.g. `…-0000-…`).
-2. Read `content/` as new material appears.
-3. Start a `journal/` entry - see the template there.
+1. Fill in every field in [student.json](student.json) - including your
+   **classCode** (it's in your repo name, e.g. …-0000-…).
+2. Read content/ as new material appears.
+3. Start a journal/ entry - see the template there.
 
 ## 💻 Working in a Codespace
 
@@ -56,6 +56,12 @@ You can open this workspace (and every activity repo) as a cloud dev environment
 
 To protect your free monthly hours: set a **10-minute idle timeout**
 (github.com/settings/codespaces), **stop** a Codespace when you finish (don't
-just close the tab - open the Command Palette with `Ctrl`/`Cmd`+`Shift`+`P` and
+just close the tab - open the Command Palette with Ctrl/Cmd+Shift+P and
 run *Codespaces: Stop Current Codespace*), and **delete** Codespaces you no
 longer need (github.com/codespaces → •••).
+
+---
+
+[![Made with Claude](https://img.shields.io/badge/Made_with-Claude-D97757)](https://claude.com/claude-code)
+
+Built with the help of Claude (Anthropic), shared in the interest of transparency.
