@@ -4,8 +4,8 @@
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-2ea44f)](LICENSE)
 ![Architecture: GitHub-native](https://img.shields.io/badge/architecture-GitHub--native-2ea44f)
 
-This repo is **yours** for the whole course - it's where you read materials, take
-quizzes, see your grades, and keep your own notes, journal, and project plan.
+This repo is **yours** for the whole course - it's where you read materials, see
+your grades, and keep your own notes, journal, and project plan.
 
 ## ⚠️ Creating this repo - read first
 
@@ -34,7 +34,6 @@ get refreshed:
 | Folder | What it is |
 | --- | --- |
 | content/ | course material - read it right here in GitHub |
-| quizzes/ | quizzes appear here when released |
 | grades/ | your grade receipts (read-only record) |
 
 **Your zone** - yours to fill, never touched by the instructor's automation:
